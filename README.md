@@ -20,4 +20,12 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ishankatlam/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
