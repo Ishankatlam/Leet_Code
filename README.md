@@ -6,6 +6,7 @@ Uploading my all Solutions to Github
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ishankatlam/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ishankatlam/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Math
@@ -28,4 +29,8 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3699-number-of-zigzag-arrays-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ishankatlam/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
