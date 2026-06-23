@@ -6,6 +6,7 @@ Uploading my all Solutions to Github
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ishankatlam/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Math
 |  |
@@ -15,4 +16,8 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ishankatlam/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
