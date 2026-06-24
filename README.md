@@ -37,4 +37,12 @@ Uploading my all Solutions to Github
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ishankatlam/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/Ishankatlam/Leet_Code/tree/master/0143-reorder-list) |
+## Array
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/Ishankatlam/Leet_Code/tree/master/1200-minimum-absolute-difference) |
+## Sorting
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/Ishankatlam/Leet_Code/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->
