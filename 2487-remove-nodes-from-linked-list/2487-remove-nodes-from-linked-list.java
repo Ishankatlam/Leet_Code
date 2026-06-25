@@ -10,18 +10,39 @@
  */
 class Solution {
     public ListNode removeNodes(ListNode head) {
-        if(head == null || head.next == null)
-        {
-            return head;
-        }
-        ListNode nextNode = removeNodes(head.next);
+       head = reverse(head);
+        
+        ListNode curr = head;
+        ListNode maxNode = head;
 
-        if(nextNode.val > head.val)
+        while(curr != null && curr.next != null)
         {
-            return nextNode;
+            if(curr.next.val < maxNode.val)
+            {
+               curr.next = curr.next.next;
+            }
+            else 
+            {
+                curr = curr.next;
+                maxNode = curr;
+            }
         }
+        return reverse(head);
+    }
+    public ListNode reverse(ListNode head)
+    {
+        ListNode curr = head;
+        ListNode prev = null;
+        ListNode next ;
 
-        head.next = nextNode;
-        return head;
+        while(curr != null)
+        {
+            next = curr.next;
+            curr.next = prev ;
+
+            prev = curr ;
+            curr = next ;
+        }
+        return prev;
     }
 }
