@@ -9,6 +9,7 @@ Uploading my all Solutions to Github
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ishankatlam/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ishankatlam/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Ishankatlam/Leet_Code/tree/master/0143-reorder-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Math
@@ -19,6 +20,7 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Ishankatlam/Leet_Code/tree/master/0143-reorder-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
@@ -44,6 +46,7 @@ Uploading my all Solutions to Github
 ## Array
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [1200-minimum-absolute-difference](https://github.com/Ishankatlam/Leet_Code/tree/master/1200-minimum-absolute-difference) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
@@ -73,5 +76,6 @@ Uploading my all Solutions to Github
 ## Monotonic Stack
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
