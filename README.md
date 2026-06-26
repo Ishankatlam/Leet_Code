@@ -8,6 +8,7 @@ Uploading my all Solutions to Github
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ishankatlam/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ishankatlam/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Ishankatlam/Leet_Code/tree/master/0023-merge-k-sorted-lists) |
 | [0143-reorder-list](https://github.com/Ishankatlam/Leet_Code/tree/master/0143-reorder-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2487-remove-nodes-from-linked-list) |
@@ -60,6 +61,7 @@ Uploading my all Solutions to Github
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ishankatlam/Leet_Code/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -68,6 +70,7 @@ Uploading my all Solutions to Github
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ishankatlam/Leet_Code/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -78,4 +81,8 @@ Uploading my all Solutions to Github
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2487-remove-nodes-from-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ishankatlam/Leet_Code/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
