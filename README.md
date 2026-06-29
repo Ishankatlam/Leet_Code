@@ -96,4 +96,20 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ishankatlam/Leet_Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ishankatlam/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ishankatlam/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ishankatlam/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ishankatlam/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
