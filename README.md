@@ -52,6 +52,7 @@ Uploading my all Solutions to Github
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ishankatlam/Leet_Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ishankatlam/Leet_Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -91,6 +92,7 @@ Uploading my all Solutions to Github
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ishankatlam/Leet_Code/tree/master/0023-merge-k-sorted-lists) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -115,6 +117,7 @@ Uploading my all Solutions to Github
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ishankatlam/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ishankatlam/Leet_Code/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -136,4 +139,13 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
