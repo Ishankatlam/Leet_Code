@@ -23,6 +23,7 @@ Uploading my all Solutions to Github
 | ------- |
 | [0143-reorder-list](https://github.com/Ishankatlam/Leet_Code/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishankatlam/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/Ishankatlam/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -151,4 +152,12 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ishankatlam/Leet_Code/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ishankatlam/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
