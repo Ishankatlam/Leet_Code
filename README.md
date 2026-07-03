@@ -16,11 +16,13 @@ Uploading my all Solutions to Github
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ishankatlam/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Ishankatlam/Leet_Code/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ishankatlam/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -47,6 +49,7 @@ Uploading my all Solutions to Github
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ishankatlam/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [1200-minimum-absolute-difference](https://github.com/Ishankatlam/Leet_Code/tree/master/1200-minimum-absolute-difference) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ishankatlam/Leet_Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
