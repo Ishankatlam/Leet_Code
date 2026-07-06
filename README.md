@@ -58,6 +58,7 @@ Uploading my all Solutions to Github
 | [0733-flood-fill](https://github.com/Ishankatlam/Leet_Code/tree/master/0733-flood-fill) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [1200-minimum-absolute-difference](https://github.com/Ishankatlam/Leet_Code/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/Ishankatlam/Leet_Code/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ishankatlam/Leet_Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ishankatlam/Leet_Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -69,6 +70,7 @@ Uploading my all Solutions to Github
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [1200-minimum-absolute-difference](https://github.com/Ishankatlam/Leet_Code/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/Ishankatlam/Leet_Code/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ishankatlam/Leet_Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
