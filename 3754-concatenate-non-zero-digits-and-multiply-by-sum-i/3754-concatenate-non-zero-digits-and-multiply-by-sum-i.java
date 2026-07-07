@@ -1,24 +1,21 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        String str = Integer.toString(n);
+        long x = 0;
+        long place = 1;
+        long sum =0;
 
-        StringBuilder sb = new StringBuilder();
-
-        int num =0;
-        for(char c : str.toCharArray())
+        while(n>0)
         {
-           if(c != '0')
-           {
-            sb.append(c);
-             int y = Character.getNumericValue(c);
-             num += y;
-           }
-        }
-        if(sb.length() == 0) return 0;
-        String s = sb.toString();
-        int z = Integer.parseInt(s);
+            int d = n%10;
 
-        return (long)z * num;
-        
+            if(d!=0)
+            {
+                x = d*place + x;
+                place *= 10;
+                sum+=d;
+            }
+            n/=10;
+        }
+        return sum * x;
     }
 }
