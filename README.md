@@ -211,5 +211,6 @@ Uploading my all Solutions to Github
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Ishankatlam/Leet_Code/tree/master/1291-sequential-digits) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 <!---LeetCode Topics End-->
