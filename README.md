@@ -18,6 +18,7 @@ Uploading my all Solutions to Github
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishankatlam/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ishankatlam/Leet_Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Ishankatlam/Leet_Code/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Stack
@@ -39,6 +40,7 @@ Uploading my all Solutions to Github
 ## Dynamic Programming
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ishankatlam/Leet_Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Ishankatlam/Leet_Code/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
@@ -67,6 +69,7 @@ Uploading my all Solutions to Github
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ishankatlam/Leet_Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ishankatlam/Leet_Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Ishankatlam/Leet_Code/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -213,4 +216,8 @@ Uploading my all Solutions to Github
 | ------- |
 | [1291-sequential-digits](https://github.com/Ishankatlam/Leet_Code/tree/master/1291-sequential-digits) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ishankatlam/Leet_Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
