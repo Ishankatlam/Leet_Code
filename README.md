@@ -87,6 +87,7 @@ Uploading my all Solutions to Github
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Ishankatlam/Leet_Code/tree/master/0133-clone-graph) |
 | [1331-rank-transform-of-an-array](https://github.com/Ishankatlam/Leet_Code/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ishankatlam/Leet_Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -143,6 +144,7 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ishankatlam/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/Ishankatlam/Leet_Code/tree/master/0133-clone-graph) |
 | [0695-max-area-of-island](https://github.com/Ishankatlam/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ishankatlam/Leet_Code/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishankatlam/Leet_Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -152,6 +154,7 @@ Uploading my all Solutions to Github
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ishankatlam/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ishankatlam/Leet_Code/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0133-clone-graph](https://github.com/Ishankatlam/Leet_Code/tree/master/0133-clone-graph) |
 | [0695-max-area-of-island](https://github.com/Ishankatlam/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ishankatlam/Leet_Code/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishankatlam/Leet_Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -193,6 +196,7 @@ Uploading my all Solutions to Github
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Ishankatlam/Leet_Code/tree/master/0133-clone-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishankatlam/Leet_Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ishankatlam/Leet_Code/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
