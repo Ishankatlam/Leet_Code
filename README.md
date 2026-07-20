@@ -67,6 +67,7 @@ Uploading my all Solutions to Github
 | [0733-flood-fill](https://github.com/Ishankatlam/Leet_Code/tree/master/0733-flood-fill) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [1200-minimum-absolute-difference](https://github.com/Ishankatlam/Leet_Code/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ishankatlam/Leet_Code/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ishankatlam/Leet_Code/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ishankatlam/Leet_Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -197,6 +198,7 @@ Uploading my all Solutions to Github
 | ------- |
 | [0695-max-area-of-island](https://github.com/Ishankatlam/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ishankatlam/Leet_Code/tree/master/0733-flood-fill) |
+| [1260-shift-2d-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -242,4 +244,8 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishankatlam/Leet_Code/tree/master/3312-sorted-gcd-pair-queries) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
