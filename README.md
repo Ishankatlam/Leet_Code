@@ -17,6 +17,7 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishankatlam/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ishankatlam/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishankatlam/Leet_Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ishankatlam/Leet_Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -63,6 +64,7 @@ Uploading my all Solutions to Github
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishankatlam/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0611-valid-triangle-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ishankatlam/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Ishankatlam/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ishankatlam/Leet_Code/tree/master/0733-flood-fill) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/1019-next-greater-node-in-linked-list) |
@@ -84,6 +86,7 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ishankatlam/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/Ishankatlam/Leet_Code/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Ishankatlam/Leet_Code/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ishankatlam/Leet_Code/tree/master/1331-rank-transform-of-an-array) |
