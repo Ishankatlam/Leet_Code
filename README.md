@@ -91,6 +91,7 @@ Uploading my all Solutions to Github
 | [1288-remove-covered-intervals](https://github.com/Ishankatlam/Leet_Code/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ishankatlam/Leet_Code/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ishankatlam/Leet_Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@ Uploading my all Solutions to Github
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ishankatlam/Leet_Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ishankatlam/Leet_Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Ishankatlam/Leet_Code/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Tree
 |  |
@@ -251,4 +253,8 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/1260-shift-2d-grid) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
