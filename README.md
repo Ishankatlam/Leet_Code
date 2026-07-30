@@ -17,6 +17,7 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishankatlam/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0523-continuous-subarray-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishankatlam/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishankatlam/Leet_Code/tree/master/3312-sorted-gcd-pair-queries) |
@@ -49,6 +50,7 @@ Uploading my all Solutions to Github
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0523-continuous-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishankatlam/Leet_Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -63,6 +65,7 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishankatlam/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0523-continuous-subarray-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0523-continuous-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishankatlam/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Ishankatlam/Leet_Code/tree/master/0695-max-area-of-island) |
@@ -96,6 +99,7 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ishankatlam/Leet_Code/tree/master/0133-clone-graph) |
+| [0523-continuous-subarray-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0523-continuous-subarray-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Ishankatlam/Leet_Code/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ishankatlam/Leet_Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishankatlam/Leet_Code/tree/master/3312-sorted-gcd-pair-queries) |
