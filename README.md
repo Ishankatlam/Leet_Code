@@ -19,6 +19,7 @@ Uploading my all Solutions to Github
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishankatlam/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishankatlam/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Ishankatlam/Leet_Code/tree/master/0877-stone-game) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishankatlam/Leet_Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ishankatlam/Leet_Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -44,6 +45,7 @@ Uploading my all Solutions to Github
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Ishankatlam/Leet_Code/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ishankatlam/Leet_Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Ishankatlam/Leet_Code/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -72,6 +74,7 @@ Uploading my all Solutions to Github
 | [0695-max-area-of-island](https://github.com/Ishankatlam/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Ishankatlam/Leet_Code/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Ishankatlam/Leet_Code/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/Ishankatlam/Leet_Code/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [1200-minimum-absolute-difference](https://github.com/Ishankatlam/Leet_Code/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/1260-shift-2d-grid) |
@@ -263,4 +266,8 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ishankatlam/Leet_Code/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
