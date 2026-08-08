@@ -84,6 +84,7 @@ Uploading my all Solutions to Github
 | [1331-rank-transform-of-an-array](https://github.com/Ishankatlam/Leet_Code/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Ishankatlam/Leet_Code/tree/master/1406-stone-game-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ishankatlam/Leet_Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1905-count-sub-islands](https://github.com/Ishankatlam/Leet_Code/tree/master/1905-count-sub-islands) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ishankatlam/Leet_Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -170,6 +171,7 @@ Uploading my all Solutions to Github
 | [0133-clone-graph](https://github.com/Ishankatlam/Leet_Code/tree/master/0133-clone-graph) |
 | [0695-max-area-of-island](https://github.com/Ishankatlam/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ishankatlam/Leet_Code/tree/master/0733-flood-fill) |
+| [1905-count-sub-islands](https://github.com/Ishankatlam/Leet_Code/tree/master/1905-count-sub-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishankatlam/Leet_Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ishankatlam/Leet_Code/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -180,6 +182,7 @@ Uploading my all Solutions to Github
 | [0133-clone-graph](https://github.com/Ishankatlam/Leet_Code/tree/master/0133-clone-graph) |
 | [0695-max-area-of-island](https://github.com/Ishankatlam/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ishankatlam/Leet_Code/tree/master/0733-flood-fill) |
+| [1905-count-sub-islands](https://github.com/Ishankatlam/Leet_Code/tree/master/1905-count-sub-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishankatlam/Leet_Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ishankatlam/Leet_Code/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -206,6 +209,7 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Ishankatlam/Leet_Code/tree/master/0695-max-area-of-island) |
+| [1905-count-sub-islands](https://github.com/Ishankatlam/Leet_Code/tree/master/1905-count-sub-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishankatlam/Leet_Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ishankatlam/Leet_Code/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -216,6 +220,7 @@ Uploading my all Solutions to Github
 | [0695-max-area-of-island](https://github.com/Ishankatlam/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ishankatlam/Leet_Code/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/1260-shift-2d-grid) |
+| [1905-count-sub-islands](https://github.com/Ishankatlam/Leet_Code/tree/master/1905-count-sub-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
