@@ -293,5 +293,6 @@ Uploading my all Solutions to Github
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/Ishankatlam/Leet_Code/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ishankatlam/Leet_Code/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
