@@ -69,6 +69,7 @@ Uploading my all Solutions to Github
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ishankatlam/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishankatlam/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0523-continuous-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0611-valid-triangle-number) |
@@ -159,6 +160,7 @@ Uploading my all Solutions to Github
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ishankatlam/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ishankatlam/Leet_Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ishankatlam/Leet_Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -318,4 +320,8 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ishankatlam/Leet_Code/tree/master/1584-min-cost-to-connect-all-points) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ishankatlam/Leet_Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
