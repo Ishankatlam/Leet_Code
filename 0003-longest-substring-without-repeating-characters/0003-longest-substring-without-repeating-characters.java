@@ -3,18 +3,17 @@ class Solution {
         HashSet<Character> set = new HashSet<>();
         int left =0;
         int maxlength = 0;
-        for(int right = 0;right< s.length();right++)
+        for(int right =0;right < s.length();right++)
         {
-            char c = s.charAt(right);
-            while(set.contains(c))
+            char curr = s.charAt(right);
+            while(set.contains(curr))
             {
-              set.remove(s.charAt(left));
+              set.remove(Character.valueOf(s.charAt(left)));
               left++;
             }
-            set.add(c);
-            maxlength = Math.max(maxlength , right - left +1);
+            set.add(curr);
+            maxlength = Math.max(maxlength , right - left +1 );
         }
         return maxlength;
-        
     }
 }
