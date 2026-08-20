@@ -69,6 +69,7 @@ Uploading my all Solutions to Github
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ishankatlam/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishankatlam/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0523-continuous-subarray-sum) |
@@ -112,6 +113,7 @@ Uploading my all Solutions to Github
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/Ishankatlam/Leet_Code/tree/master/0133-clone-graph) |
 | [0523-continuous-subarray-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0523-continuous-subarray-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Ishankatlam/Leet_Code/tree/master/1331-rank-transform-of-an-array) |
