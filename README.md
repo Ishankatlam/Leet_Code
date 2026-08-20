@@ -115,6 +115,7 @@ Uploading my all Solutions to Github
 | [1288-remove-covered-intervals](https://github.com/Ishankatlam/Leet_Code/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ishankatlam/Leet_Code/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ishankatlam/Leet_Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2785-sort-vowels-in-a-string](https://github.com/Ishankatlam/Leet_Code/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -175,6 +176,7 @@ Uploading my all Solutions to Github
 | [0014-longest-common-prefix](https://github.com/Ishankatlam/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ishankatlam/Leet_Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ishankatlam/Leet_Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2785-sort-vowels-in-a-string](https://github.com/Ishankatlam/Leet_Code/tree/master/2785-sort-vowels-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Ishankatlam/Leet_Code/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Tree
