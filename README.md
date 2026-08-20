@@ -93,6 +93,7 @@ Uploading my all Solutions to Github
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishankatlam/Leet_Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ishankatlam/Leet_Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Ishankatlam/Leet_Code/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Ishankatlam/Leet_Code/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
