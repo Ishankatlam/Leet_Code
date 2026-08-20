@@ -78,6 +78,7 @@ Uploading my all Solutions to Github
 | [0014-longest-common-prefix](https://github.com/Ishankatlam/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishankatlam/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/Ishankatlam/Leet_Code/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0523-continuous-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishankatlam/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -109,6 +110,7 @@ Uploading my all Solutions to Github
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishankatlam/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/Ishankatlam/Leet_Code/tree/master/1200-minimum-absolute-difference) |
