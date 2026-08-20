@@ -69,6 +69,7 @@ Uploading my all Solutions to Github
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ishankatlam/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/Ishankatlam/Leet_Code/tree/master/0143-reorder-list) |
+| [0283-move-zeroes](https://github.com/Ishankatlam/Leet_Code/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0611-valid-triangle-number) |
 ## Array
 |  |
@@ -76,6 +77,7 @@ Uploading my all Solutions to Github
 | [0001-two-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ishankatlam/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishankatlam/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0283-move-zeroes](https://github.com/Ishankatlam/Leet_Code/tree/master/0283-move-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0523-continuous-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishankatlam/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
