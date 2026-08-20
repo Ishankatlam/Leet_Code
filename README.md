@@ -85,6 +85,7 @@ Uploading my all Solutions to Github
 | [0724-find-pivot-index](https://github.com/Ishankatlam/Leet_Code/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Ishankatlam/Leet_Code/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/Ishankatlam/Leet_Code/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/Ishankatlam/Leet_Code/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ishankatlam/Leet_Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [1200-minimum-absolute-difference](https://github.com/Ishankatlam/Leet_Code/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/1260-shift-2d-grid) |
@@ -199,6 +200,7 @@ Uploading my all Solutions to Github
 | [0133-clone-graph](https://github.com/Ishankatlam/Leet_Code/tree/master/0133-clone-graph) |
 | [0695-max-area-of-island](https://github.com/Ishankatlam/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ishankatlam/Leet_Code/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Ishankatlam/Leet_Code/tree/master/0994-rotting-oranges) |
 | [1905-count-sub-islands](https://github.com/Ishankatlam/Leet_Code/tree/master/1905-count-sub-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishankatlam/Leet_Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ishankatlam/Leet_Code/tree/master/2685-count-the-number-of-complete-components) |
@@ -238,6 +240,7 @@ Uploading my all Solutions to Github
 | ------- |
 | [0695-max-area-of-island](https://github.com/Ishankatlam/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ishankatlam/Leet_Code/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Ishankatlam/Leet_Code/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/1260-shift-2d-grid) |
 | [1905-count-sub-islands](https://github.com/Ishankatlam/Leet_Code/tree/master/1905-count-sub-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/2812-find-the-safest-path-in-a-grid) |
