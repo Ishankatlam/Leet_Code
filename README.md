@@ -30,6 +30,7 @@ Uploading my all Solutions to Github
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ishankatlam/Leet_Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Ishankatlam/Leet_Code/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Ishankatlam/Leet_Code/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Stack
 |  |
@@ -112,6 +113,7 @@ Uploading my all Solutions to Github
 | [3620-network-recovery-pathways](https://github.com/Ishankatlam/Leet_Code/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Ishankatlam/Leet_Code/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3903-smallest-stable-index-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sorting
