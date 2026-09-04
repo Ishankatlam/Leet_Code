@@ -203,6 +203,7 @@ Uploading my all Solutions to Github
 | [0133-clone-graph](https://github.com/Ishankatlam/Leet_Code/tree/master/0133-clone-graph) |
 | [0695-max-area-of-island](https://github.com/Ishankatlam/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ishankatlam/Leet_Code/tree/master/0733-flood-fill) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Ishankatlam/Leet_Code/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1905-count-sub-islands](https://github.com/Ishankatlam/Leet_Code/tree/master/1905-count-sub-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishankatlam/Leet_Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2596-check-knight-tour-configuration](https://github.com/Ishankatlam/Leet_Code/tree/master/2596-check-knight-tour-configuration) |
@@ -216,6 +217,7 @@ Uploading my all Solutions to Github
 | [0695-max-area-of-island](https://github.com/Ishankatlam/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ishankatlam/Leet_Code/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ishankatlam/Leet_Code/tree/master/0994-rotting-oranges) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Ishankatlam/Leet_Code/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1905-count-sub-islands](https://github.com/Ishankatlam/Leet_Code/tree/master/1905-count-sub-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishankatlam/Leet_Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2596-check-knight-tour-configuration](https://github.com/Ishankatlam/Leet_Code/tree/master/2596-check-knight-tour-configuration) |
@@ -245,6 +247,7 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Ishankatlam/Leet_Code/tree/master/0695-max-area-of-island) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Ishankatlam/Leet_Code/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ishankatlam/Leet_Code/tree/master/1584-min-cost-to-connect-all-points) |
 | [1905-count-sub-islands](https://github.com/Ishankatlam/Leet_Code/tree/master/1905-count-sub-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishankatlam/Leet_Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -266,6 +269,7 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ishankatlam/Leet_Code/tree/master/0133-clone-graph) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Ishankatlam/Leet_Code/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ishankatlam/Leet_Code/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishankatlam/Leet_Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ishankatlam/Leet_Code/tree/master/2685-count-the-number-of-complete-components) |
