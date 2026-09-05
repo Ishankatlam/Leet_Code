@@ -53,6 +53,7 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Ishankatlam/Leet_Code/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Ishankatlam/Leet_Code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ishankatlam/Leet_Code/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ishankatlam/Leet_Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -85,6 +86,7 @@ Uploading my all Solutions to Github
 | [0283-move-zeroes](https://github.com/Ishankatlam/Leet_Code/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/Ishankatlam/Leet_Code/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishankatlam/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Ishankatlam/Leet_Code/tree/master/0695-max-area-of-island) |
@@ -214,6 +216,7 @@ Uploading my all Solutions to Github
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ishankatlam/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ishankatlam/Leet_Code/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0133-clone-graph](https://github.com/Ishankatlam/Leet_Code/tree/master/0133-clone-graph) |
+| [0542-01-matrix](https://github.com/Ishankatlam/Leet_Code/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Ishankatlam/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ishankatlam/Leet_Code/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ishankatlam/Leet_Code/tree/master/0994-rotting-oranges) |
@@ -257,6 +260,7 @@ Uploading my all Solutions to Github
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Ishankatlam/Leet_Code/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Ishankatlam/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ishankatlam/Leet_Code/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ishankatlam/Leet_Code/tree/master/0994-rotting-oranges) |
