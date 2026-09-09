@@ -84,6 +84,7 @@ Uploading my all Solutions to Github
 | [0014-longest-common-prefix](https://github.com/Ishankatlam/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishankatlam/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/Ishankatlam/Leet_Code/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Ishankatlam/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/Ishankatlam/Leet_Code/tree/master/0542-01-matrix) |
@@ -121,6 +122,7 @@ Uploading my all Solutions to Github
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ishankatlam/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishankatlam/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -138,6 +140,7 @@ Uploading my all Solutions to Github
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ishankatlam/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/Ishankatlam/Leet_Code/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Ishankatlam/Leet_Code/tree/master/0141-linked-list-cycle) |
+| [0347-top-k-frequent-elements](https://github.com/Ishankatlam/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0523-continuous-subarray-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Ishankatlam/Leet_Code/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ishankatlam/Leet_Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -150,6 +153,7 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ishankatlam/Leet_Code/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Ishankatlam/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -163,6 +167,7 @@ Uploading my all Solutions to Github
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ishankatlam/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ishankatlam/Leet_Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Ishankatlam/Leet_Code/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -175,6 +180,7 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ishankatlam/Leet_Code/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Ishankatlam/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishankatlam/Leet_Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Ishankatlam/Leet_Code/tree/master/3620-network-recovery-pathways) |
@@ -375,4 +381,12 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ishankatlam/Leet_Code/tree/master/0141-linked-list-cycle) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ishankatlam/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ishankatlam/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
