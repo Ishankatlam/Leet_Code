@@ -21,6 +21,7 @@ Uploading my all Solutions to Github
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishankatlam/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0523-continuous-subarray-sum) |
+| [0539-minimum-time-difference](https://github.com/Ishankatlam/Leet_Code/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishankatlam/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ishankatlam/Leet_Code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ishankatlam/Leet_Code/tree/master/1406-stone-game-iii) |
@@ -87,6 +88,7 @@ Uploading my all Solutions to Github
 | [0347-top-k-frequent-elements](https://github.com/Ishankatlam/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0523-continuous-subarray-sum) |
+| [0539-minimum-time-difference](https://github.com/Ishankatlam/Leet_Code/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/Ishankatlam/Leet_Code/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishankatlam/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +126,7 @@ Uploading my all Solutions to Github
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ishankatlam/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0414-third-maximum-number) |
+| [0539-minimum-time-difference](https://github.com/Ishankatlam/Leet_Code/tree/master/0539-minimum-time-difference) |
 | [0611-valid-triangle-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishankatlam/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/Ishankatlam/Leet_Code/tree/master/1200-minimum-absolute-difference) |
@@ -194,6 +197,7 @@ Uploading my all Solutions to Github
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ishankatlam/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Ishankatlam/Leet_Code/tree/master/0014-longest-common-prefix) |
+| [0539-minimum-time-difference](https://github.com/Ishankatlam/Leet_Code/tree/master/0539-minimum-time-difference) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ishankatlam/Leet_Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ishankatlam/Leet_Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2785-sort-vowels-in-a-string](https://github.com/Ishankatlam/Leet_Code/tree/master/2785-sort-vowels-in-a-string) |
