@@ -87,6 +87,7 @@ Uploading my all Solutions to Github
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishankatlam/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/Ishankatlam/Leet_Code/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Ishankatlam/Leet_Code/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Ishankatlam/Leet_Code/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Ishankatlam/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0523-continuous-subarray-sum) |
@@ -158,11 +159,13 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ishankatlam/Leet_Code/tree/master/0023-merge-k-sorted-lists) |
+| [0307-range-sum-query-mutable](https://github.com/Ishankatlam/Leet_Code/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Ishankatlam/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Ishankatlam/Leet_Code/tree/master/0307-range-sum-query-mutable) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ishankatlam/Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -303,6 +306,7 @@ Uploading my all Solutions to Github
 | [0225-implement-stack-using-queues](https://github.com/Ishankatlam/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ishankatlam/Leet_Code/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Ishankatlam/Leet_Code/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Ishankatlam/Leet_Code/tree/master/0307-range-sum-query-mutable) |
 ## Queue
 |  |
 | ------- |
@@ -396,4 +400,12 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ishankatlam/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Ishankatlam/Leet_Code/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Ishankatlam/Leet_Code/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
