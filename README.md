@@ -84,6 +84,7 @@ Uploading my all Solutions to Github
 | ------- |
 | [0001-two-sum](https://github.com/Ishankatlam/Leet_Code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ishankatlam/Leet_Code/tree/master/0014-longest-common-prefix) |
+| [0047-permutations-ii](https://github.com/Ishankatlam/Leet_Code/tree/master/0047-permutations-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishankatlam/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/Ishankatlam/Leet_Code/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Ishankatlam/Leet_Code/tree/master/0303-range-sum-query-immutable) |
@@ -127,6 +128,7 @@ Uploading my all Solutions to Github
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Ishankatlam/Leet_Code/tree/master/0047-permutations-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ishankatlam/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Ishankatlam/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/Ishankatlam/Leet_Code/tree/master/0539-minimum-time-difference) |
@@ -408,4 +410,8 @@ Uploading my all Solutions to Github
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Ishankatlam/Leet_Code/tree/master/0307-range-sum-query-mutable) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Ishankatlam/Leet_Code/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
