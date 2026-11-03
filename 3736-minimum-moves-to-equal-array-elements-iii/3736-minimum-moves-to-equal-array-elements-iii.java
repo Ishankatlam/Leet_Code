@@ -1,11 +1,10 @@
 class Solution {
     public int minMoves(int[] nums) {
-        int n = nums.length;
         int ops=0;
-        int max_num = Arrays.stream(nums)
-                     .parallel()
-                     .max()
-                     .getAsInt();
+        int max_num = Integer.MIN_VALUE;
+        for(int num : nums){
+            max_num = Math.max(max_num , num);
+        }
         for(int num : nums){
             ops +=(max_num - num);
         }
